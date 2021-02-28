@@ -11,11 +11,11 @@ identity:
 secret:
   image:
     version: 1.6.4-rc2
-    repository: spaceone
+    repository: pyengine
 repository:
   image:
-    version: 1.6.4-rc1.20210301.002800
-    repository: pyengine
+    version: 1.6.4-rc2
+    repository: spaceone
 plugin:
   image:
     version: 1.6.4-rc1.20210301.003119
