@@ -1,6 +1,4 @@
 identity:
-    enabled: true
-    image:
-        version: 1.6.2.1
-
-
+  enabled: true
+  image:
+    version: 1.2.3
