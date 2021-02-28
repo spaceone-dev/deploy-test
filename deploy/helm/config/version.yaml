@@ -35,11 +35,11 @@ monitoring:
 statistics:
   image:
     version: 1.6.4-rc2
-    repository: spaceone
+    repository: pyengine
 billing:
   image:
-    version: 1.6.4-rc1.20210301.005341
-    repository: pyengine
+    version: 1.6.4-rc2
+    repository: spaceone
 power-scheduler:
   image:
     version: 1.6.2
