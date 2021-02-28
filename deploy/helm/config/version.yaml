@@ -4,5 +4,4 @@ identity:
     version: 1.3.3
 helm-test:
   image:
-    version: 1.6.4-rc29
-spaceone: spaceone
+    version: 1.6.4-rc30
