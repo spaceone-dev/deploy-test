@@ -6,3 +6,4 @@ helm-test:
   image:
     repository: spaceone
     version: 1.6.4-rc32
+'': ''
