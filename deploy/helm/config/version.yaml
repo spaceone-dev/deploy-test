@@ -5,4 +5,4 @@ identity:
 helm-test:
   image:
     repository: pyengine
-    version: 1.6.4-rc32
+    version: 1.6.4-rc33
