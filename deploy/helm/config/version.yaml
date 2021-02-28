@@ -23,15 +23,15 @@ plugin:
 config:
   image:
     version: 1.6.4-rc2
-    repository: spaceone
+    repository: pyengine
 inventory:
   image:
     version: 1.6.4-rc1.20210301.004600
     repository: pyengine
 monitoring:
   image:
-    version: 1.6.4-rc1.20210301.004835
-    repository: pyengine
+    version: 1.6.4-rc2
+    repository: spaceone
 statistics:
   image:
     version: 1.6.4-rc1.20210301.005134
