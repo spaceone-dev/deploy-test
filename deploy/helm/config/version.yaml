@@ -4,6 +4,6 @@ identity:
     version: 1.3.3
 helm-test:
   image:
-    repository: spaceone
+    repository: pyengine
     version: 1.6.4-rc34.20210228.182739
 pyengine: pyengine
