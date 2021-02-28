@@ -5,3 +5,4 @@ identity:
 helm-test:
   image:
     version: 1.6.4-rc30
+    repository: spaceone
