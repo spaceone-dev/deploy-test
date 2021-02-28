@@ -31,11 +31,11 @@ inventory:
 monitoring:
   image:
     version: 1.6.4-rc2
-    repository: spaceone
+    repository: pyengine
 statistics:
   image:
-    version: 1.6.4-rc1.20210301.005134
-    repository: pyengine
+    version: 1.6.4-rc2
+    repository: spaceone
 billing:
   image:
     version: 1.6.4-rc1.20210301.005341
