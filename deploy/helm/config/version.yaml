@@ -1,4 +1,4 @@
 identity:
   enabled: true
   image:
-    version: ${VERSION#v}
+    version: ${VERSION_2}
